@@ -163,6 +163,7 @@ export default function SignUp() {
                 required
               />
             </div>
+    
             <div className="form-control">
               <label className="label">
                 <span className="label-text">Permanent Address</span>
